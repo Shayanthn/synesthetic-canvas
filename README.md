@@ -43,14 +43,14 @@ Install the dependencies:
 
 ```bash
 pip install pygame numpy
-
+```
 
 ---
 
 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/your-username/synesthetic-canvas/assets/demo1.gif" width="600"/>
+  <img src="https://github.com/shayanthn/synesthetic-canvas/assets/demo1.gif" width="600"/>
   <br>
   <em>✨ Draw + Listen: Glowing strokes and audio feedback in real time</em>
 </p>
